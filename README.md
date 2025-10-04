@@ -1,4 +1,4 @@
-# Exploratory Data Analysis: Zero to Hero  
+# Exploratory Data Analysis and Data Cleaning on Sales Dataset
 
 This project is a step-by-step walkthrough of performing Exploratory Data Analysis (EDA) in Python. Using a sales dataset, I demonstrate how to load, clean, and preprocess data, handle missing values, and explore patterns through EDA. The goal is to show how raw data can be transformed into insights using practical data analysis techniques.  
 
